@@ -1,6 +1,6 @@
 {
   "version": "1.0.2",
-  "download_url": "https://github.com/Foscare/Calendar_Pro/releases/download/v1.0.2/CalendarProSetupV1.0.2.exe",
+  "download_url": "https://github.com/Foscare/Calendar_Pro/releases/download/1.0.2/CalendarProSetupV1.0.2.exe",
   "notes": "Hotfix 1.0.2: risolto crash database 'no such column: gcal_event_id' con migrazione schema automatica (lessons/blocks) e inizializzazione DB anticipata all'avvio."
 }
 
